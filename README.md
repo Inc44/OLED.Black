@@ -2,4 +2,4 @@
 
 A minimalist, pure black theme optimized for OLED displays, offering maximum battery efficiency and a clean aesthetic.
 
-![](screenshot.png)
+![](screenshot_full.png)

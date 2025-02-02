@@ -10,7 +10,6 @@
     --purple: #8c54d0;
     --red: #ed3524;
     --white: #ffffff;
-    font-weight: 400;
 }
 .theme-dark {
     --background-primary-alt: var(--black);
